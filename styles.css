@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  background-image: url(blue-orange-cupboards.jpg);
 }
 #container {
   width: 500px;
